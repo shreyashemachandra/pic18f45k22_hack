@@ -1,0 +1,5 @@
+# Ignore all generated files files
+source/**/*.map
+source/**/*.o
+source/**/*.hex
+docs/build
